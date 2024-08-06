@@ -1,0 +1,6 @@
+@MarketAPI.UnidadeTerra.CS_HostAddress = http://localhost:5128
+
+GET {{MarketAPI.UnidadeTerra.CS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

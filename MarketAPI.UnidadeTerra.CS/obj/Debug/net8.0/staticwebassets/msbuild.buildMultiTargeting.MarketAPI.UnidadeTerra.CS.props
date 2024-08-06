@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MarketAPI.UnidadeTerra.CS.props" />
+</Project>
